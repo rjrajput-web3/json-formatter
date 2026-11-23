@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^4.19.2"},"name":"example-project","private":true,"scripts":{"start":"node index.js","test":"node --test"},"tags":["demo","json","sample"],"version":"1.4.0"}
